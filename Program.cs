@@ -7,13 +7,15 @@ class Prem
    
     public Prem()
     {
+       
         
     }
 
     static void Main(string[] args)
     {
-        Prem P = new Prem();  
-        
+        Prem P = new Prem();
+        Prem P = new Prem();
+
     }
 }
 
